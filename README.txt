@@ -1,1 +1,1 @@
-changed
+This a Heart disease Analysis made using google collab . I have taken a heart Disease data set from Kaggle . The data set has upto 12 columns. The last column heart disease is actual ouput and other than that are conditions which are the inputs. 
